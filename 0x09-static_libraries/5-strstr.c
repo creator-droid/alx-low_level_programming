@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _strstr - a fucntion that finds the first occurrence of the substring.
 */
